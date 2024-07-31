@@ -1,0 +1,9 @@
+< text 
+start /. gift/
+
+dev. "Rules" ;
+ "trek" = 100 ;
+100 × 100 = print ;
+print - "trek";
+
+
